@@ -62,5 +62,5 @@ dog = Dog("Tommy")
 cat = Cat("Pussy")
 
 
-print(dog.speak())  # Output: Buddy says Woof!
-print(cat.speak())  # Output: Whiskers says Meow!
+print(dog.speak())  
+print(cat.speak())  
